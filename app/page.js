@@ -57,7 +57,7 @@ export default function Home() {
               />
             </div>
             <div className="avatar-badge">
-              <b>10+</b> years engineering
+              <b>13+</b> years engineering
             </div>
           </div>
         </header>
