@@ -34,7 +34,6 @@ export default function Home() {
         {/* Hero */}
         <header className="hero">
           <div>
-            <div className="hero-eyebrow">{"// hello, world"}</div>
             <h1>{profile.name}</h1>
             <h2>{profile.title}</h2>
             <p>{profile.tagline}</p>
